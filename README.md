@@ -1,4 +1,10 @@
-### Hi there 👋
+I'm currently a nurse practitioner with a focus on care of people in nursing homes, but at my core I'm a computer programmer.
+
+Prior to entering the field of health care I was a programmer for an insurance company.  I developed calculation engines used to see insurance products.  I enjoyed  it but found it unfullfilling.  I wanted to have something more meaningful so I went back to school and became a nurse practitioner.
+
+Since I started school I've been acutely aware of how under utilized information technology is in health care.  We are capable of doing so much for our patients if we could only embrace the use of technology.
+
+I've been writing programs to help me with my job and have decided to start sharing them with others.  You are welcome to take my code and change it to fit your specific needs.  
 
 <!--
 **NurseStacey/NurseStacey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
